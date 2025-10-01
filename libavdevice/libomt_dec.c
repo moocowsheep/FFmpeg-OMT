@@ -473,4 +473,3 @@ static const AVClass libomt_demuxer_class = {
 
 #endif
 
-
